@@ -268,7 +268,7 @@ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   margin-bottom: 5px;
   text-transform: uppercase;
 }
-.banner-contact .contact p{
+.banner-contact .content p{
   color: #333;
   font-size: 17px;
   margin: 5px;
